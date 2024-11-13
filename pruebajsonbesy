@@ -1,10 +1,5 @@
 {
 "@odata.context": "https://graph.microsoft.com/v1.0/$metadata#users(id,ssignedLicenses)",
 "name": "Afghanistan",
-"@odata.count": 1,
-"value": [
-{
-"id": "3acc0695-8867-40ea-a823-5481a05d26c4"
-}
-]
+"@odata.count": 1
 }
