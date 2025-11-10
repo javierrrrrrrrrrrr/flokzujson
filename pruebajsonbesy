@@ -1,20 +1,92 @@
-
-{
- "nombre":"JAVIER",
- "tabla0": [
-                {
-                    "A": "12",
-                    "B": "13"
-                },
-                {
-                    "A": "14",
-                    "B": "15"
-                },
-                {
-                    "A": "16",
-                    "B": "17"
-                }
-            ]
-
-}
-
+[
+  {
+    "pais": "Afghanistan",
+    "codigo": "AF",
+    "capital": "Kabul",
+    "continente": "Asia",
+    "poblacion": 40218234,
+    "idioma": "Pastún y Darí",
+    "moneda": "Afgani (AFN)"
+  },
+  {
+    "pais": "Albania",
+    "codigo": "AL",
+    "capital": "Tirana",
+    "continente": "Europa",
+    "poblacion": 2837743,
+    "idioma": "Albanés",
+    "moneda": "Lek (ALL)"
+  },
+  {
+    "pais": "Argentina",
+    "codigo": "AR",
+    "capital": "Buenos Aires",
+    "continente": "América del Sur",
+    "poblacion": 45773884,
+    "idioma": "Español",
+    "moneda": "Peso argentino (ARS)"
+  },
+  {
+    "pais": "Australia",
+    "codigo": "AU",
+    "capital": "Canberra",
+    "continente": "Oceanía",
+    "poblacion": 26068740,
+    "idioma": "Inglés",
+    "moneda": "Dólar australiano (AUD)"
+  },
+  {
+    "pais": "Brasil",
+    "codigo": "BR",
+    "capital": "Brasilia",
+    "continente": "América del Sur",
+    "poblacion": 216422446,
+    "idioma": "Portugués",
+    "moneda": "Real brasileño (BRL)"
+  },
+  {
+    "pais": "Canadá",
+    "codigo": "CA",
+    "capital": "Ottawa",
+    "continente": "América del Norte",
+    "poblacion": 38929902,
+    "idioma": "Inglés y Francés",
+    "moneda": "Dólar canadiense (CAD)"
+  },
+  {
+    "pais": "España",
+    "codigo": "ES",
+    "capital": "Madrid",
+    "continente": "Europa",
+    "poblacion": 48691164,
+    "idioma": "Español",
+    "moneda": "Euro (EUR)"
+  },
+  {
+    "pais": "Japón",
+    "codigo": "JP",
+    "capital": "Tokio",
+    "continente": "Asia",
+    "poblacion": 125124989,
+    "idioma": "Japonés",
+    "moneda": "Yen japonés (JPY)"
+  },
+  {
+    "pais": "México",
+    "codigo": "MX",
+    "capital": "Ciudad de México",
+    "continente": "América del Norte",
+    "poblacion": 128933491,
+    "idioma": "Español",
+    "moneda": "Peso mexicano (MXN)"
+  },
+  {
+    "pais": "Sudáfrica",
+    "codigo": "ZA",
+    "capital": "Pretoria (administrativa)",
+    "continente": "África",
+    "poblacion": 60414495,
+    "idioma": "11 idiomas oficiales (incluye inglés, zulú, afrikáans)",
+    "moneda": "Rand sudafricano (ZAR)"
+  }
+]
