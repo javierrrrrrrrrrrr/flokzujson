@@ -1,18 +1,213 @@
 {
- "nombre":"JAVIER",
- "tabla0": [
-                {
-                    "A": "12",
-                    "B": "13"
-                },
-                {
-                    "A": "14",
-                    "B": "15"
-                },
-                {
-                    "A": "16",
-                    "B": "17"
-                }
-            ]
-
+    "tipo_actividad": "Servicio mayor",
+    "Suministros": [
+        {
+            "Cantidad": "1.0",
+            "Dimensional": "Unidad",
+            "Suministro": "ACEITE PARA MOTOR LITRO",
+            "Codigo": "VCA204",
+            "Descripcion": "1 ACEITE PARA MOTOR LITRO(VCA204)"
+        },
+        {
+            "Cantidad": "0.1",
+            "Dimensional": "Unidad",
+            "Suministro": "LUBRICANTE DE CADENA 445ML",
+            "Codigo": "ECOMOTO-116",
+            "Descripcion": "0.10 LUBRICANTE DE CADENA 445ML(ECOMOTO-116)"
+        },
+        {
+            "Cantidad": "0.2",
+            "Dimensional": "Unidad",
+            "Suministro": "LIMPIADOR DE CONTACTOS ELECTRICOS 13 OZ",
+            "Codigo": "MAX-OIL-72920",
+            "Descripcion": "0.20 LIMPIADOR DE CONTACTOS ELECTRICOS 13 OZ(MAX-OIL-72920)"
+        },
+        {
+            "Cantidad": "0.2",
+            "Dimensional": "Unidad",
+            "Suministro": "AFLOJATODO ECOM 550",
+            "Codigo": "ECO-115",
+            "Descripcion": "0.20 AFLOJATODO ECOM 550(ECO-115)"
+        },
+        {
+            "Cantidad": "2.0",
+            "Dimensional": "Unidad",
+            "Suministro": "FRICCIONES DELANTERAS / TRASERAS",
+            "Codigo": "MK06270526",
+            "Descripcion": "2 FRICCIONES DELANTERAS / TRASERAS(MK06270526)"
+        },
+        {
+            "Cantidad": "0.25",
+            "Dimensional": "Unidad",
+            "Suministro": "WIPPE COLOR",
+            "Codigo": "2153",
+            "Descripcion": "0.25 WIPPE COLOR(2153)"
+        },
+        {
+            "Cantidad": "1.0",
+            "Dimensional": "Unidad",
+            "Suministro": "FILTRO DE AIRE",
+            "Codigo": "125BIT31-10L",
+            "Descripcion": "1 FILTRO DE AIRE(125BIT31-10L)"
+        },
+        {
+            "Cantidad": "1.0",
+            "Dimensional": "Unidad",
+            "Suministro": "BUJIA C6HA",
+            "Codigo": "N2180040",
+            "Descripcion": "1 BUJIA C6HA(N2180040)"
+        },
+        {
+            "Cantidad": "1.0",
+            "Dimensional": "Unidad",
+            "Suministro": "ACEITE PARA MOTOR LITRO",
+            "Codigo": "VCA204",
+            "Descripcion": "1 ACEITE PARA MOTOR LITRO(VCA204)"
+        },
+        {
+            "Cantidad": "0.1",
+            "Dimensional": "Unidad",
+            "Suministro": "LUBRICANTE DE CADENA 445ML",
+            "Codigo": "ECOMOTO-116",
+            "Descripcion": "0.10 LUBRICANTE DE CADENA 445ML(ECOMOTO-116)"
+        },
+        {
+            "Cantidad": "0.2",
+            "Dimensional": "Unidad",
+            "Suministro": "LIMPIADOR DE CONTACTOS ELECTRICOS 13 OZ",
+            "Codigo": "MAX-OIL-72920",
+            "Descripcion": "0.20 LIMPIADOR DE CONTACTOS ELECTRICOS 13 OZ(MAX-OIL-72920)"
+        },
+        {
+            "Cantidad": "0.2",
+            "Dimensional": "Unidad",
+            "Suministro": "AFLOJATODO ECOM 550",
+            "Codigo": "ECO-115",
+            "Descripcion": "0.20 AFLOJATODO ECOM 550(ECO-115)"
+        },
+        {
+            "Cantidad": "2.0",
+            "Dimensional": "Unidad",
+            "Suministro": "FRICCIONES",
+            "Codigo": "B30151105",
+            "Descripcion": "2 FRICCIONES(B30151105)"
+        },
+        {
+            "Cantidad": "0.25",
+            "Dimensional": "Unidad",
+            "Suministro": "WIPPE COLOR",
+            "Codigo": "2153",
+            "Descripcion": "0.25 WIPPE COLOR(2153)"
+        },
+        {
+            "Cantidad": "1.0",
+            "Dimensional": "Unidad",
+            "Suministro": "ELEMENTO DE FILTRO DE ACEITE",
+            "Codigo": "DD121181",
+            "Descripcion": "1 ELEMENTO DE FILTRO DE ACEITE(DD121181)"
+        },
+        {
+            "Cantidad": "1.0",
+            "Dimensional": "Unidad",
+            "Suministro": "FILTRO DE AIRE",
+            "Codigo": "DH121135",
+            "Descripcion": "1 FILTRO DE AIRE(DH121135)"
+        },
+        {
+            "Cantidad": "1.0",
+            "Dimensional": "Unidad",
+            "Suministro": "BUJIA",
+            "Codigo": "DD111018",
+            "Descripcion": "1 BUJIA(DD111018)"
+        }
+    ]
+},
+{
+    "tipo_actividad": "Servicio menor",
+    "Suministros": [
+        {
+            "Cantidad": "1.0",
+            "Dimensional": "Unidad",
+            "Suministro": "ACEITE PARA MOTOR LITRO",
+            "Codigo": "VCA204",
+            "Descripcion": "1 ACEITE PARA MOTOR LITRO(VCA204)"
+        },
+        {
+            "Cantidad": "0.1",
+            "Dimensional": "Unidad",
+            "Suministro": "LUBRICANTE DE CADENA 445ML",
+            "Codigo": "ECOMOTO-116",
+            "Descripcion": "0.10 LUBRICANTE DE CADENA 445ML(ECOMOTO-116)"
+        },
+        {
+            "Cantidad": "0.2",
+            "Dimensional": "Unidad",
+            "Suministro": "LIMPIADOR DE CONTACTOS ELECTRICOS 13 OZ",
+            "Codigo": "MAX-OIL-72920",
+            "Descripcion": "0.20 LIMPIADOR DE CONTACTOS ELECTRICOS 13 OZ(MAX-OIL-72920)"
+        },
+        {
+            "Cantidad": "0.2",
+            "Dimensional": "Unidad",
+            "Suministro": "AFLOJATODO ECOM 550",
+            "Codigo": "ECO-115",
+            "Descripcion": "0.20 AFLOJATODO ECOM 550(ECO-115)"
+        },
+        {
+            "Cantidad": "2.0",
+            "Dimensional": "Unidad",
+            "Suministro": "FRICCIONES DELANTERAS / TRASERAS",
+            "Codigo": "MK06270526",
+            "Descripcion": "2 FRICCIONES DELANTERAS / TRASERAS(MK06270526)"
+        },
+        {
+            "Cantidad": "0.25",
+            "Dimensional": "Unidad",
+            "Suministro": "WIPPE COLOR",
+            "Codigo": "2153",
+            "Descripcion": "0.25 WIPPE COLOR(2153)"
+        },
+        {
+            "Cantidad": "1.0",
+            "Dimensional": "Unidad",
+            "Suministro": "ACEITE PARA MOTOR LITRO",
+            "Codigo": "VCA204",
+            "Descripcion": "1 ACEITE PARA MOTOR LITRO(VCA204)"
+        },
+        {
+            "Cantidad": "0.1",
+            "Dimensional": "Unidad",
+            "Suministro": "LUBRICANTE DE CADENA 445ML",
+            "Codigo": "ECOMOTO-116",
+            "Descripcion": "0.10 LUBRICANTE DE CADENA 445ML(ECOMOTO-116)"
+        },
+        {
+            "Cantidad": "0.2",
+            "Dimensional": "Unidad",
+            "Suministro": "LIMPIADOR DE CONTACTOS ELECTRICOS 13 OZ",
+            "Codigo": "MAX-OIL-72920",
+            "Descripcion": "0.20 LIMPIADOR DE CONTACTOS ELECTRICOS 13 OZ(MAX-OIL-72920)"
+        },
+        {
+            "Cantidad": "0.2",
+            "Dimensional": "Unidad",
+            "Suministro": "AFLOJATODO ECOM 550",
+            "Codigo": "ECO-115",
+            "Descripcion": "0.20 AFLOJATODO ECOM 550(ECO-115)"
+        },
+        {
+            "Cantidad": "2.0",
+            "Dimensional": "Unidad",
+            "Suministro": "FRICCIONES",
+            "Codigo": "B30151105",
+            "Descripcion": "2 FRICCIONES(B30151105)"
+        },
+        {
+            "Cantidad": "0.25",
+            "Dimensional": "Unidad",
+            "Suministro": "WIPPE COLOR",
+            "Codigo": "2153",
+            "Descripcion": "0.25 WIPPE COLOR(2153)"
+        }
+    ]
 }
